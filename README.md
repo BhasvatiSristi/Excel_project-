@@ -1,6 +1,3 @@
-# Excel_project-
-This project is a Sales Analysis Dashboard built using Excel, leveraging Power Query and Power Pivot for data transformation and visualization. It provides insights into revenue trends, customer spending patterns, and product/category performance.
-
 # 📊 Sales Analysis Dashboard - Excel | Power Query | Power Pivot  
 
 ## 🚀 Project Overview  
@@ -28,11 +25,6 @@ This project is a **Sales Analysis Dashboard** built using **Excel**, utilizing 
 
 ## 🎯 Business Value  
 This dashboard helps in **performance tracking, demand forecasting, and strategic decision-making** by presenting key sales metrics in an interactive and visual format.  
-
-## 💡 Future Enhancements  
-- **Automation** using VBA or Power Automate  
-- **Integration with Power BI for interactive visualizations**  
-- **Adding Predictive Analytics using Python or SQL**  
 
 ## 🙌 Special Thanks  
 A huge thanks to **Ayushi Ma’am from WsCube English Channel** for her amazing guidance! 🎉  
